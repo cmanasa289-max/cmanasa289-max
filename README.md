@@ -1,13 +1,24 @@
 <p align="center">
-  <img src="images/banner.png" alt="Manasa Chava Banner" width="100%">
+  <img src="banner.png" alt="Manasa Chava - Biotech to Data Science Journey" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 I'm Manasa Chava</h1>
+# Hi there! I'm Manasa 👋
+## 🧬 Systems-Hacking Scientist | IT Infrastructure & Data Pipelines
 
-<h3 align="center">
-Junior Data Scientist • Data Analyst • Associate Engineer
-</h3>
+I am an IT professional with hands-on experience spanning backend microservices, cloud operations, and data pipeline orchestration across regulated healthcare and life sciences environments[cite: 1]. I specialize in bridging the gap between biological insights and complex data infrastructure[cite: 1].
 
-<p align="center">
-Biotechnology ➜ Data Science ➜ Machine Learning ➜ AI
-</p>
+### 🛠️ Technical Toolkit
+
+*   **Cloud & Infrastructure:** Azure (AZ-900), Red Hat Linux, Docker, CI/CD, Apache Airflow[cite: 1]
+*   **Software Development:** Python (FastAPI), C#/.NET Core (Entity Framework), SQL Server, PostgreSQL[cite: 1]
+*   **Data & Compliance:** HIPAA EDI 270/271/277, CMS Compliance, Power BI, ETL Frameworks[cite: 1]
+*   **Analytics & Modeling:** ARIMA/SARIMA Time-Series Forecasting, Scikit-Learn, Statistical Modeling[cite: 1]
+
+### 🚀 Featured Highlights & Impact
+
+*   **Backend & Cloud Reliability:** Maintained 27-32 Python/FastAPI microservices on Azure/Linux, sustaining 99%+ uptime for core workflows[cite: 1].
+*   **Data Orchestration:** Engineered Apache Airflow ETL pipelines and reduced pipeline failure response times by 40%[cite: 1].
+*   **Regulated Compliance:** Designed data validation workflows ensuring strict HIPAA and CMS compliance for healthcare data processing[cite: 1].
+
+---
+📫 **How to reach me:** c.manasa289@gmail.com | Downingtown, PA
